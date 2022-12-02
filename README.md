@@ -1,1 +1,3 @@
-# Style-Transfer-with-ImageTransformationNet
+# Style-Transfer-with-ImageTransformationNet <br />
+
+Implementation of Perceptual Losses for Real-Time Style Transfe from the paper (Justin Johnson, Alexandre Alahi, Li Fei-Fei, [2016](https://arxiv.org/abs/1603.08155))

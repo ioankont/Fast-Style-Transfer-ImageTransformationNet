@@ -6,5 +6,5 @@ Implementation of Perceptual Losses for Real-Time Style Transfe from the paper (
 We trained a feed forrward convolutional network to different style images each time, and here the results
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/118340733/207288285-8f207638-4a51-4283-8011-75d5e171e93d.JPG" width="1000" height="1400" title="Content Image">
+  <img src="https://user-images.githubusercontent.com/118340733/207288285-8f207638-4a51-4283-8011-75d5e171e93d.JPG" width="800" height="1200" title="Content Image">
 </p> <br />

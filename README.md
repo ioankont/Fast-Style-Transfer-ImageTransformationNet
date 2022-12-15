@@ -12,5 +12,5 @@ We trained a feed forward convolutional network to different style images each t
 ## Description <br />
 
 For training used 60000 images from COCOdataset for 2 epochs. 
-Every input image pass through the Image Transformation Network. The output (generated image) is an input for the VGG19, where we extract the feature representations. As an input for VGG19 is also the style image, in which we want to train our network and the input images of the Image Transformation Network. We calculate the content and style losses, but now we update the values of the Image Transformation Network, instead of the white-image noise as in [previous](https://github.com/ioankont/NeuralStyleTransfer).
+Every input image pass through the Image Transformation Network. The output (generated image) is an input for the VGG19, where we extract the feature representations. As an input for VGG19 is also the style image, in which we want to train our network and the input images of the Image Transformation Network. We calculate the content and style losses, but now we update the values of the Image Transformation Network, instead of the white-image noise as in [previous work](https://github.com/ioankont/NeuralStyleTransfer).
 

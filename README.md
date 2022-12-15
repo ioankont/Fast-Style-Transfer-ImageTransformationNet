@@ -18,3 +18,5 @@ Every input image pass through the Image Transformation Network. The output (gen
 <p align="center">
   <img src="https://user-images.githubusercontent.com/118340733/207846932-2a5b300c-047c-4d04-b96a-704f1fa1ecfd.JPG" width="700" height="500" title="Content Image">
 </p> <br />
+
+With this algorithm, our network is training so that can apply the specific style image to any input image of our choise
